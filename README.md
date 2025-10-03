@@ -3,6 +3,7 @@
 ## 📌 Project Overview
 A simple **course simulation prototype** built with **React** and **Material UI**.  
 Users can **sign up**, **log in**, **browse courses**, and **simulate enrolling or teaching**, similar to a lightweight Udemy/YouTube hybrid.  
+The app includes **basic business logic** to prevent scheduling conflicts between courses. 
 📦 **Archived** — This project is no longer being updated. It’s kept as part of my learning history and serves as a technical reference for future projects.
 
 <br>
