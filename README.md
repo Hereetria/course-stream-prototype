@@ -9,18 +9,12 @@ Users can **sign up**, **log in**, **browse courses**, and **simulate enrolling 
 
 ## 🖼️ Screenshots
 Shown below in order:  
-**1. Landing** · **2. Explore Courses** · **3. My Courses**<br>
-**4. My Teaching**
+**1. Landing** · **2. Explore Courses** · **3. My Teaching**
 
 <p align="center">
   <img src="./public/screenshots/landing.png" width="32%">
   <img src="./public/screenshots/explore-courses.png" width="32%">
-  <img src="./public/screenshots/my-courses.png" width="32%">
-</p>
-<p align="center">
   <img src="./public/screenshots/my-teaching.png" width="32%">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif" width="32%">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif" width="32%">
 </p>
 
 <br>
