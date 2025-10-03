@@ -1,4 +1,4 @@
-# 📚 Course Stream Prototype — React & MUI Course Simulation • (Archived)
+# 📚 Course Stream Prototype — Course Platform • (Archived)
 
 ## 📌 Project Overview
 A simple **course simulation prototype** built with **React** and **Material UI**.  
