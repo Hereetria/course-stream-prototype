@@ -13,12 +13,12 @@ Shown below in order:
 **4. My Teaching**
 
 <p align="center">
-  <img src="./docs/screenshots/landing.png" width="32%">
-  <img src="./docs/screenshots/explore-courses.png" width="32%">
-  <img src="./docs/screenshots/my-courses.png" width="32%">
+  <img src="./public/screenshots/landing.png" width="32%">
+  <img src="./public/screenshots/explore-courses.png" width="32%">
+  <img src="./public/screenshots/my-courses.png" width="32%">
 </p>
 <p align="center">
-  <img src="./docs/screenshots/my-teaching.png" width="32%">
+  <img src="./public/screenshots/my-teaching.png" width="32%">
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif" width="32%">
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif" width="32%">
 </p>
