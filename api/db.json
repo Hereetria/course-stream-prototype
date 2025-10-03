@@ -1,0 +1,604 @@
+{
+  "courses": [
+    {
+      "id": "1744276066831",
+      "title": "Introduction to Cloud-Native Development",
+      "categoryId": "1",
+      "instructor": "Zeynep",
+      "time": {
+        "days": "Monday",
+        "start": "11:00",
+        "end": "13:20"
+      },
+      "creatorUserId": "1744271272420",
+      "enrolledUserIds": [
+        "1747377481070"
+      ]
+    },
+    {
+      "id": "1744276400355",
+      "title": "Fundamentals of User-Centered Design",
+      "categoryId": "2",
+      "instructor": "Oguz",
+      "time": {
+        "days": "Friday",
+        "start": "16:30",
+        "end": "18:00"
+      },
+      "creatorUserId": "1744276352250",
+      "enrolledUserIds": []
+    },
+    {
+      "id": "1744276420881",
+      "title": "Interactive Prototyping with Figma",
+      "categoryId": "2",
+      "instructor": "Oguz",
+      "time": {
+        "days": "Wednesday",
+        "start": "14:00",
+        "end": "16:30"
+      },
+      "creatorUserId": "1744276352250",
+      "enrolledUserIds": []
+    },
+    {
+      "id": "1744276440089",
+      "title": "Digital Marketing Strategy for Beginners",
+      "categoryId": "4",
+      "instructor": "Oguz",
+      "time": {
+        "days": "Monday",
+        "start": "18:00",
+        "end": "19:30"
+      },
+      "creatorUserId": "1744276352250",
+      "enrolledUserIds": []
+    },
+    {
+      "id": "1744276458540",
+      "title": "Mastering Social Media Advertising",
+      "categoryId": "4",
+      "instructor": "Oguz",
+      "time": {
+        "days": "Monday",
+        "start": "10:00",
+        "end": "11:30"
+      },
+      "creatorUserId": "1744276352250",
+      "enrolledUserIds": []
+    },
+    {
+      "id": "1744276622644",
+      "title": "Introduction to Music Production with Ableton Live",
+      "categoryId": "3",
+      "instructor": "Alp",
+      "time": {
+        "days": "Monday",
+        "start": "17:30",
+        "end": "19:00"
+      },
+      "creatorUserId": "1744276538486",
+      "enrolledUserIds": [
+        "1746793820971"
+      ]
+    },
+    {
+      "id": "1744276635657",
+      "title": "Electronic Music Composition and Synthesis",
+      "categoryId": "3",
+      "instructor": "Alp",
+      "time": {
+        "days": "Wednesday",
+        "start": "12:00",
+        "end": "14:00"
+      },
+      "creatorUserId": "1744276538486",
+      "enrolledUserIds": [
+        "1746793820971"
+      ]
+    },
+    {
+      "id": "1744276684818",
+      "title": "Recording Techniques for Home Studios",
+      "categoryId": "3",
+      "instructor": "Alp",
+      "time": {
+        "days": "Thursday",
+        "start": "17:40",
+        "end": "19:30"
+      },
+      "creatorUserId": "1744276538486",
+      "enrolledUserIds": []
+    },
+    {
+      "id": "1744276833463",
+      "title": "Ethical Hacking Fundamentals",
+      "categoryId": "5",
+      "instructor": "Atilla",
+      "time": {
+        "days": "Thursday",
+        "start": "16:30",
+        "end": "19:00"
+      },
+      "creatorUserId": "1744276746719",
+      "enrolledUserIds": []
+    },
+    {
+      "id": "1744276852896",
+      "title": "Network Security and Intrusion Detection",
+      "categoryId": "5",
+      "instructor": "Atilla",
+      "time": {
+        "days": "Wednesday",
+        "start": "13:30",
+        "end": "15:00"
+      },
+      "creatorUserId": "1744276746719",
+      "enrolledUserIds": []
+    },
+    {
+      "id": "1744276867260",
+      "title": "Cybersecurity Risk Management",
+      "categoryId": "5",
+      "instructor": "Atilla",
+      "time": {
+        "days": "Friday",
+        "start": "16:30",
+        "end": "18:00"
+      },
+      "creatorUserId": "1744276746719",
+      "enrolledUserIds": []
+    },
+    {
+      "id": "1744276890998",
+      "title": "Incident Response and Forensic Analysis",
+      "categoryId": "5",
+      "instructor": "Atilla",
+      "time": {
+        "days": "Tuesday",
+        "start": "09:00",
+        "end": "11:30"
+      },
+      "creatorUserId": "1744276746719",
+      "enrolledUserIds": []
+    },
+    {
+      "id": "1744277205767",
+      "title": "Content Marketing and SEO Strategies",
+      "categoryId": "4",
+      "instructor": "Aysu",
+      "time": {
+        "days": "Wednesday",
+        "start": "16:00",
+        "end": "18:30"
+      },
+      "creatorUserId": "1744277093810",
+      "enrolledUserIds": []
+    },
+    {
+      "id": "1744277232826",
+      "title": "Social Media Analytics and Growth",
+      "categoryId": "4",
+      "instructor": "Aysu",
+      "time": {
+        "days": "Monday",
+        "start": "12:00",
+        "end": "14:30"
+      },
+      "creatorUserId": "1744277093810",
+      "enrolledUserIds": []
+    },
+    {
+      "id": "1744277258072",
+      "title": "The Art of Music Composition",
+      "categoryId": "3",
+      "instructor": "Aysu",
+      "time": {
+        "days": "Tuesday",
+        "start": "15:30",
+        "end": "17:30"
+      },
+      "creatorUserId": "1744277093810",
+      "enrolledUserIds": []
+    },
+    {
+      "id": "1744277271071",
+      "title": "Digital Audio Workstation Techniques",
+      "categoryId": "3",
+      "instructor": "Aysu",
+      "time": {
+        "days": "Friday",
+        "start": "14:30",
+        "end": "16:00"
+      },
+      "creatorUserId": "1744277093810",
+      "enrolledUserIds": [
+        "1746793820971"
+      ]
+    },
+    {
+      "id": "1744277526723",
+      "title": "How to make website with react + ts",
+      "categoryId": "1",
+      "instructor": "Okan",
+      "time": {
+        "days": "Wednesday",
+        "start": "16:30",
+        "end": "18:00"
+      },
+      "creatorUserId": "1744229085289",
+      "enrolledUserIds": [
+        "1746793820971"
+      ]
+    },
+    {
+      "id": "1744277679873",
+      "title": "Monoliths to Microservices",
+      "categoryId": "1",
+      "instructor": "Okan",
+      "time": {
+        "days": "Monday",
+        "start": "12:30",
+        "end": "16:30"
+      },
+      "creatorUserId": "1744229085289",
+      "enrolledUserIds": []
+    },
+    {
+      "id": "1744277721979",
+      "title": "DevOps Demystified",
+      "categoryId": "1",
+      "instructor": "Okan",
+      "time": {
+        "days": "Saturday",
+        "start": "12:30",
+        "end": "15:00"
+      },
+      "creatorUserId": "1744229085289",
+      "enrolledUserIds": [
+        "1746793820971"
+      ]
+    },
+    {
+      "id": "1744277738919",
+      "title": "Cloud Scaling",
+      "categoryId": "1",
+      "instructor": "Okan",
+      "time": {
+        "days": "Friday",
+        "start": "12:00",
+        "end": "14:30"
+      },
+      "creatorUserId": "1744229085289",
+      "enrolledUserIds": [
+        "1746793820971",
+        "1747377481070"
+      ]
+    },
+    {
+      "id": "1744277756628",
+      "title": "Modern Security",
+      "categoryId": "1",
+      "instructor": "Okan",
+      "time": {
+        "days": "Wednesday",
+        "start": "13:00",
+        "end": "14:30"
+      },
+      "creatorUserId": "1744229085289",
+      "enrolledUserIds": []
+    },
+    {
+      "id": "1744277782187",
+      "title": "Agile Methods",
+      "categoryId": "1",
+      "instructor": "Okan",
+      "time": {
+        "days": "Tuesday",
+        "start": "12:00",
+        "end": "14:00"
+      },
+      "creatorUserId": "1744229085289",
+      "enrolledUserIds": [
+        "1746793820971"
+      ]
+    },
+    {
+      "id": "1744277821106",
+      "title": "AI Integration",
+      "categoryId": "1",
+      "instructor": "Okan",
+      "time": {
+        "days": "Tuesday",
+        "start": "16:00",
+        "end": "18:30"
+      },
+      "creatorUserId": "1744229085289",
+      "enrolledUserIds": [
+        "1746793820971",
+        "1747131078171",
+        "1747377481070"
+      ]
+    },
+    {
+      "id": "1744277850670",
+      "title": "Distributed Systems",
+      "categoryId": "1",
+      "instructor": "Okan",
+      "time": {
+        "days": "Thursday",
+        "start": "12:30",
+        "end": "14:30"
+      },
+      "creatorUserId": "1744229085289",
+      "enrolledUserIds": [
+        "1746793820971",
+        "1747131078171",
+        "1747377481070"
+      ]
+    },
+    {
+      "id": "1744277867591",
+      "title": "Performance Tuning",
+      "categoryId": "1",
+      "instructor": "Okan",
+      "time": {
+        "days": "Monday",
+        "start": "09:00",
+        "end": "12:00"
+      },
+      "creatorUserId": "1744229085289",
+      "enrolledUserIds": [
+        "1746793820971"
+      ]
+    },
+    {
+      "id": "1746793998489",
+      "title": "Javascirpt",
+      "categoryId": "1",
+      "instructor": "Murat",
+      "time": {
+        "days": "Monday",
+        "start": "12:00",
+        "end": "17:00"
+      },
+      "creatorUserId": "1746793820971",
+      "enrolledUserIds": [
+        "1"
+      ]
+    },
+    {
+      "id": "1747376945223",
+      "title": "Typescript Programming",
+      "categoryId": "1",
+      "instructor": "Okan",
+      "time": {
+        "days": "Monday",
+        "start": "12:00",
+        "end": "16:00"
+      },
+      "creatorUserId": "1747376817970",
+      "enrolledUserIds": [
+        "1"
+      ]
+    },
+    {
+      "id": "1747376970312",
+      "title": "After Effects Design",
+      "categoryId": "2",
+      "instructor": "Okan",
+      "time": {
+        "days": "Tuesday",
+        "start": "09:30",
+        "end": "12:00"
+      },
+      "creatorUserId": "1747376817970",
+      "enrolledUserIds": [
+        "1"
+      ]
+    },
+    {
+      "id": "1747377015367",
+      "title": "Fundmentals of C#",
+      "categoryId": "1",
+      "instructor": "Okan",
+      "time": {
+        "days": "Thursday",
+        "start": "12:00",
+        "end": "15:30"
+      },
+      "creatorUserId": "1747376817970",
+      "enrolledUserIds": [
+        "1"
+      ]
+    },
+    {
+      "id": "1747377040583",
+      "title": "SQL Injection",
+      "categoryId": "5",
+      "instructor": "Okan",
+      "time": {
+        "days": "Wednesday",
+        "start": "14:30",
+        "end": "17:00"
+      },
+      "creatorUserId": "1747376817970",
+      "enrolledUserIds": [
+        "1"
+      ]
+    },
+    {
+      "id": "1747377061223",
+      "title": "UI/UX Fundamentals",
+      "categoryId": "2",
+      "instructor": "Okan",
+      "time": {
+        "days": "Friday",
+        "start": "09:00",
+        "end": "12:30"
+      },
+      "creatorUserId": "1747376817970",
+      "enrolledUserIds": [
+        "1"
+      ]
+    },
+    {
+      "id": "1747377084415",
+      "title": "DevOps Essentials",
+      "categoryId": "1",
+      "instructor": "Okan",
+      "time": {
+        "days": "Saturday",
+        "start": "12:00",
+        "end": "15:45"
+      },
+      "creatorUserId": "1747376817970",
+      "enrolledUserIds": [
+        "1"
+      ]
+    },
+    {
+      "id": "1747377107159",
+      "title": "Data Structures and Algorithms",
+      "categoryId": "1",
+      "instructor": "Okan",
+      "time": {
+        "days": "Tuesday",
+        "start": "13:30",
+        "end": "16:00"
+      },
+      "creatorUserId": "1747376817970",
+      "enrolledUserIds": [
+        "1"
+      ]
+    },
+    {
+      "id": "1747377135863",
+      "title": "Backend with .NET Core",
+      "categoryId": "1",
+      "instructor": "Okan",
+      "time": {
+        "days": "Monday",
+        "start": "17:30",
+        "end": "20:00"
+      },
+      "creatorUserId": "1747376817970",
+      "enrolledUserIds": [
+        "1"
+      ]
+    },
+    {
+      "id": "1747377602655",
+      "title": "JavaScript",
+      "categoryId": "1",
+      "instructor": "Oznurr",
+      "time": {
+        "days": "Monday",
+        "start": "12:00",
+        "end": "16:00"
+      },
+      "creatorUserId": "1747377481070",
+      "enrolledUserIds": [
+        "1"
+      ]
+    }
+  ],
+  "users": [
+    {
+      "id": "1744229085289",
+      "name": "Okan",
+      "username": "Hereetria",
+      "email": "yusufokansirkeci@gmail.com",
+      "passwordHash": "$2b$10$XUBTK5zPFiY5t9BaAXsBSOB9TL.YP44fCsIYMDj0GjkkWBEIqJo9",
+      "createdAt": "2025-04-09T20:04:45.289Z"
+    },
+    {
+      "id": "1744271103988",
+      "name": "Timur",
+      "username": "Caldiran",
+      "email": "timur@gmail.com",
+      "passwordHash": "$2b$10$R6vKcNHKEv.mNXwH5ylUB.3LwzMZNqdZUYCzNOOiyz5LthfFGiMD.",
+      "createdAt": "2025-04-10T07:45:03.988Z"
+    },
+    {
+      "id": "1744271272420",
+      "name": "Yildiz",
+      "username": "Karamanoglu",
+      "email": "yildiz@gmail.com",
+      "passwordHash": "$2b$10$8oi3ltnO9z/ZzpM7f9fUEOCfWdkVZOPvzFLYt8vqy6cCasPSJm5zq",
+      "createdAt": "2025-04-10T07:47:52.420Z"
+    },
+    {
+      "id": "1744276352250",
+      "name": "Oguz",
+      "username": "Gokturk",
+      "email": "oguz@gmail.com",
+      "passwordHash": "$2b$10$5oXJmeHE6.rWOAIOmSs6HePr3KOcXtKUpObqpVe5vVzQTkJOUtpca",
+      "createdAt": "2025-04-10T09:12:32.250Z"
+    },
+    {
+      "id": "1744276538486",
+      "name": "Alp",
+      "username": "Akkurt",
+      "email": "alp@gmail.com",
+      "passwordHash": "$2b$10$Fs7e4R4aUuO5OKq4W8FxP.2vdHz660Vvq11ZEwN6hQQRAvtcAcfAK",
+      "createdAt": "2025-04-10T09:15:38.486Z"
+    },
+    {
+      "id": "1744276746719",
+      "name": "Atilla",
+      "username": "Gokboru",
+      "email": "atilla@gmail.com",
+      "passwordHash": "$2b$10$IKtcuaoloQMQHCq66Hx8TO/.G.9aDNt86rb4tddpp6L5WKOCXvk32",
+      "createdAt": "2025-04-10T09:19:06.719Z"
+    },
+    {
+      "id": "1744277093810",
+      "name": "Aysu",
+      "username": "Malazgirt",
+      "email": "aysu@gmail.com",
+      "passwordHash": "$2b$10$7dunIEyhxuvr2X3NywO7J.VjnM3DM5O0NnwxwAslUPbeQCtckNyyi",
+      "createdAt": "2025-04-10T09:24:53.810Z"
+    },
+    {
+      "id": "1746793820971",
+      "name": "Murat",
+      "username": "Murat",
+      "email": "murat@gmail.com",
+      "passwordHash": "$2b$10$7IRwnnhFagjcaOM2.UbLT.9ZWjqDQ8OxKffCZcvyGSkCEEBD44CLq",
+      "createdAt": "2025-05-09T12:30:20.971Z"
+    },
+    {
+      "id": "1747131078171",
+      "name": "Okan",
+      "username": "Okannn",
+      "email": "yusufokansirkeci@gmail.com",
+      "passwordHash": "$2b$10$IOro4CYsaazdgeq7w9kZfOXDYr7hRJGrwSzyCa/7bUo9ydyLypv0G",
+      "createdAt": "2025-05-13T10:11:18.171Z"
+    },
+    {
+      "id": "1747376817970",
+      "name": "Okan",
+      "username": "Okan",
+      "email": "yusufokansirkeci@gmail.com",
+      "passwordHash": "$2b$10$FI3AgsjbeyUkWI.ckGSCT.uvNifx2sYAXWHl7exBFYMzt1pGzG..O",
+      "createdAt": "2025-05-16T06:26:57.970Z"
+    },
+    {
+      "id": "1747377387285",
+      "name": "Oznur",
+      "username": "Oznurrr",
+      "email": "oznur@gmail.com",
+      "passwordHash": "$2b$10$9H4hsOO9ruZmJQ.0k9.NLe06w8Gi.lBpbQbo/Xzb90chZoC1RRdf2",
+      "createdAt": "2025-05-16T06:36:27.285Z"
+    },
+    {
+      "id": "1747377481070",
+      "name": "Oznurr",
+      "username": "Oznurr",
+      "email": "oznurr@gmail.com",
+      "passwordHash": "$2b$10$YBndK92ou4tS9aR4Fb6pvuJ7Hej6GRUD47kOp8UrGVK19EaNv6ZkW",
+      "createdAt": "2025-05-16T06:38:01.070Z"
+    }
+  ]
+}
